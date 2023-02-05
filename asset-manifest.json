@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Finance-app/static/css/main.77623536.css",
+    "main.js": "/Finance-app/static/js/main.cb3f6b6e.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Finance-app/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/Finance-app/index.html",
+    "main.77623536.css.map": "/Finance-app/static/css/main.77623536.css.map",
+    "main.cb3f6b6e.js.map": "/Finance-app/static/js/main.cb3f6b6e.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Finance-app/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77623536.css",
+    "static/js/main.cb3f6b6e.js"
+  ]
+}
